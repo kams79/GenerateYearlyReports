@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+488620,"Professional Services",207774,41554.8,249329,USD,2017-11-07
+317091,"Waste management services",287902,57580.4,345482,EUR,2017-11-15
+855681,"Concierge Services",262111,52422.2,314533,RON,2017-11-23

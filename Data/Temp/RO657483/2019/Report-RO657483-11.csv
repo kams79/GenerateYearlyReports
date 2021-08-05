@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+272390,"Professional Services",2017-11-21,86450,17290,103740,USD
+646073,"Beverages and Catering",2017-11-10,215019,43003.8,258023,RON
+403976,"Professional Services",2017-11-09,137655,27531,165186,EUR
